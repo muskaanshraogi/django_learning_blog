@@ -1,5 +1,6 @@
 django_learning_blog/__pycache__
 blog/__pycache__
 blog/migrations
+user/migrations
 db.sqlite3
 venv
